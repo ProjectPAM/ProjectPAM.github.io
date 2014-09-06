@@ -163,6 +163,10 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
+#socialmedia {
+	margin-bottom:6px;
+}
+
 a.button {
   width: 134px;
   height: 58px;
