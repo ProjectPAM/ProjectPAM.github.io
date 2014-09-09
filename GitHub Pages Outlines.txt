@@ -1,0 +1,73 @@
+projectpam.github.io
+
+- Welcome to Project PAM
+	- Who we are
+		- We are a team of undergraduate engineering students working on a Senior Design Project at Southern Illinois University Carbondale.
+			- Photo
+		- We have great passion for advancing the open source and 3D printing community.
+	- Motivation
+	- What is Project PAM
+	- Hardware and Software Repos
+	- Kickstarter
+- Why Open-Source?
+	- Answer the Question
+	- some DLP printers aren't open-source
+	- Open-Source Hardware Association
+	- Licenses
+- Tired of Those Stupid Spaghetti Machines?
+	- FDM vs DLP
+	- Market Gap
+		- Build Volume
+		- Cost
+- How is our design more flexible?
+	- Dual 1080p projectors
+	- Off the shelf parts
+	- Compatible with lots of projectors
+	- Software Compatibility
+- Releases
+	- Most Recent
+- Contact Us.
+	- Fb
+	- Twitter
+	- Google+
+	- GMail
+
+projectpam.github.io/Software
+- Introduction
+	- What it is based off of
+- Open-Source
+	- OSHWA
+- Releases
+- Contributing
+- Contact Us.
+	- Fb
+	- Twitter
+	- Google+
+	- GMail
+
+projectpam.github.io/Hardware
+- Introduction
+- Open-Source
+	- OSHWA
+- Releases
+- Contributing
+- Contact Us.
+	- Fb
+	- Twitter
+	- Google+
+	- GMail
+
+READMES
+- Introduction
+	- GitHub Pages
+	- Contact
+	- OSHWA
+- Releases
+- Contributing workflow
+- Contact Us.
+	- Fb
+	- Twitter
+	- Google+
+	- GMail
+- License
+	
