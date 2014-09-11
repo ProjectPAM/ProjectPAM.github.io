@@ -69,5 +69,10 @@ READMES
 	- Twitter
 	- Google+
 	- GMail
+	- Follow ProjectPAM on GitHub
+	- Follow @ProjectPAM on Twitter
+	- Like us on Facebook: facebook.com/projectpam.siu
+	- Follow us on Google+
+	- Email us at prjectpam.siu@gmail.com
 - License
 	
