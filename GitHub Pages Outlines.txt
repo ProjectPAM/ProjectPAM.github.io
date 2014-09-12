@@ -27,10 +27,9 @@ projectpam.github.io
 - Releases
 	- Most Recent
 - Contact Us.
-	- Fb
-	- Twitter
-	- Google+
-	- GMail
+	- Email List
+	- GitHub Issues
+	- GitHub, Twitter, Facebook, Google+, Youtube
 
 projectpam.github.io/Software
 - Introduction
@@ -40,10 +39,9 @@ projectpam.github.io/Software
 - Releases
 - Contributing
 - Contact Us.
-	- Fb
-	- Twitter
-	- Google+
-	- GMail
+	- Email List
+	- GitHub Issues
+	- GitHub, Twitter, Facebook, Google+, Youtube
 
 projectpam.github.io/Hardware
 - Introduction
@@ -52,10 +50,9 @@ projectpam.github.io/Hardware
 - Releases
 - Contributing
 - Contact Us.
-	- Fb
-	- Twitter
-	- Google+
-	- GMail
+	- Email list
+	- GitHub Issues
+	- GitHub, Twitter, Facebook, Google+, Youtube
 
 READMES
 - Introduction
@@ -65,14 +62,8 @@ READMES
 - Releases
 - Contributing workflow
 - Contact Us.
-	- Fb
-	- Twitter
-	- Google+
-	- GMail
-	- Follow ProjectPAM on GitHub
-	- Follow @ProjectPAM on Twitter
-	- Like us on Facebook: facebook.com/projectpam.siu
-	- Follow us on Google+
-	- Email us at prjectpam.siu@gmail.com
+	- Email List
+	- GitHub Issues
+	- GitHub, Twitter, Facebook, Google+, Youtube
 - License
 	
