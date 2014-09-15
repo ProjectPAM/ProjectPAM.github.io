@@ -163,10 +163,6 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
-#socialmedia {
-	margin-bottom:6px;
-}
-
 a.button {
   width: 134px;
   height: 58px;
@@ -377,6 +373,18 @@ ol {
 dl dd {
   font-style: italic;
   font-weight: 100;
+}
+
+#images_hz {
+	width: 960px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+#images_hz img {
+	display: inline;
+	margin: 0 1px;
 }
 
 footer {
