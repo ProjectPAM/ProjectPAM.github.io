@@ -8,7 +8,7 @@ projectpam.github.io
 	- Motivation
 	    - Produce a high resolution DLP projector that is fully open sourced using off-the-shelf hardware
 	- What is Project PAM
-		- Photoresin Additive Manufacturing:  Fully open source design and well documented printer design. 
+		- Photoresin Additive Manufacturing: Fully open source design and well documented printer design. 
 	- Hardware and Software Repos
 	- Kickstarter
 - Why Open-Source?
