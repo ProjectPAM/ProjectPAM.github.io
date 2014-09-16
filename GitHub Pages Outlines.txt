@@ -6,12 +6,16 @@ projectpam.github.io
 			- Photo
 		- We have great passion for advancing the open source and 3D printing community.
 	- Motivation
+	    - Produce a high resolution DLP projector that is fully open sourced using off-the-shelf hardware
 	- What is Project PAM
+		- Photoresin Additive Manufacturing:  Fully open source design and well documented printer design. 
 	- Hardware and Software Repos
 	- Kickstarter
 - Why Open-Source?
 	- Answer the Question
+	    - Because open-source is better...
 	- some DLP printers aren't open-source
+	    - Use of special software and patented hardware
 	- Open-Source Hardware Association
 	- Licenses
 - Tired of Those Stupid Spaghetti Machines?
@@ -21,13 +25,16 @@ projectpam.github.io
 		- Cost
 - How is our design more flexible?
 	- Dual 1080p projectors
+	    -also works with just one
 	- Off the shelf parts
-	- Compatible with lots of projectors
+		- Most parts can be found off of Amazon or local hardware store
+	- Compatible with lots of DLP projectors
 	- Software Compatibility
 - Releases
 	- Most Recent
 - Contact Us.
 	- Email List
+		-one central email?
 	- GitHub Issues
 	- GitHub, Twitter, Facebook, Google+, Youtube
 
@@ -47,6 +54,8 @@ projectpam.github.io/Hardware
 - Introduction
 - Open-Source
 	- OSHWA
+	   -Open source hardware is hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. The hardware’s source, the design from which it is made, is available in the preferred format for making modifications to it
+	   -http://www.oshwa.org/definition/
 - Releases
 - Contributing
 - Contact Us.
